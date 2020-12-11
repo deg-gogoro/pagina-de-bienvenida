@@ -1,0 +1,27 @@
+body {
+    background-color: lightskyblue;
+}
+#presentacion {
+    text-align: center;
+    
+}
+#yo {
+    color: rgb(0, 161, 0);
+}
+
+#caja {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
